@@ -154,27 +154,25 @@ const Index = () => {
               </CardContent>
             </Card>
 
-            <Card className="hover:shadow-lg transition-shadow border-orange-100">
+            <Card className="hover:shadow-lg transition-shadow border-purple-100">
               <CardHeader>
-                <div className="w-16 h-16 bg-orange-100 rounded-lg flex items-center justify-center mb-4">
-                  <span className="text-2xl">🔨</span>
+                <div className="w-16 h-16 bg-gradient-to-br from-purple-100 to-orange-100 rounded-lg flex items-center justify-center mb-4">
+                  <span className="text-2xl">🎨</span>
                 </div>
                 <CardTitle className="font-montserrat">
-                  Технология мальчиков
+                  Творческие проекты
                 </CardTitle>
-                <CardDescription>
-                  Столярное дело, металлообработка
-                </CardDescription>
+                <CardDescription>Дизайн, декор, инновации</CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4">
-                  Работа с деревом, металлом, изучение инструментов и создание
-                  практических изделий.
+                  Современные техники дизайна, создание уникальных проектов и
+                  развитие творческого мышления.
                 </p>
                 <ul className="text-sm text-gray-500 space-y-1">
-                  <li>• Столярное дело</li>
-                  <li>• Работа с металлом</li>
-                  <li>• Практические проекты</li>
+                  <li>• Дизайн-проекты</li>
+                  <li>• Инновационные техники</li>
+                  <li>• Командная работа</li>
                 </ul>
               </CardContent>
             </Card>
