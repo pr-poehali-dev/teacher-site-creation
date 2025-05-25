@@ -105,7 +105,8 @@ const Index = () => {
               <div className="space-y-3">
                 <div className="flex items-center text-gray-700">
                   <span className="w-2 h-2 bg-purple-500 rounded-full mr-3"></span>
-                  Образование: Педагогический университет, технологии
+                  Образование: Государственный социально-гуманитарный
+                  университет, Технологический факультет
                 </div>
                 <div className="flex items-center text-gray-700">
                   <span className="w-2 h-2 bg-orange-500 rounded-full mr-3"></span>
