@@ -30,10 +30,22 @@ const Index = () => {
               Предметы
             </a>
             <a
+              href="#programs"
+              className="text-gray-700 hover:text-purple-700 transition-colors"
+            >
+              Программы
+            </a>
+            <a
+              href="#materials"
+              className="text-gray-700 hover:text-purple-700 transition-colors"
+            >
+              Материалы
+            </a>
+            <a
               href="#portfolio"
               className="text-gray-700 hover:text-purple-700 transition-colors"
             >
-              Портфолио
+              Проекты
             </a>
             <a
               href="#contact"
